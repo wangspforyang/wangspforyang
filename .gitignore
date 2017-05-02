@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <!--<link rel="stylesheet" type="text/css" href="test1_1.css">-->
+
+    <style type="text/css">
+        *{
+            padding:0px;
+            margin:auto
+        }
+        .top{
+            width:50%;
+            height:100px;
+            /*background-color: tomato;*/
+        }
+        .image{
+            margin-top: 0px;
+            margin-bottom: 0px;
+            margin-left: 30%;
+            margin-right: 25%;
+        }
+        .final{
+            margin-top: 20px;
+            margin-bottom: 0px;
+            margin-left: 25%;
+            margin-right: 25%;
+        }
+
+
+    </style>
+</head>
+<body>
+    <div class="top">
+        <div class="top_content"></div>
+    </div>
+
+        <h1 align="center">暂时分开,是为了将来更好的相遇</h1>
+    <br/>
+        <h2 align="center">毕竟，你说过</h2>
+    <br/>
+    <br/>
+<div class="image">
+    <img src="img/img_2.jpg" width="540" height="136" align="center" >
+</div>
+
+<br/>
+  <div class="final">  <h3 align="center">最后，还是要说对不起</h3></div>
+
+</body>
+</html>
